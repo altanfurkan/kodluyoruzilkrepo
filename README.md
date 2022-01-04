@@ -1,5 +1,5 @@
 <img src = "https://media.giphy.com/media/THYpZXjiXcMoCjdnyj/giphy.gif" align ="right" width="400" height="250" >
-
+  
 ### Hi There, I'm Furkan :blush:
 
  ![Profile views](https://komarev.com/ghpvc/?username=altanfurkan)
