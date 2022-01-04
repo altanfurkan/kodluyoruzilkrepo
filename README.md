@@ -1,4 +1,4 @@
-<img src = "https://media.giphy.com/media/THYpZXjiXcMoCjdnyj/giphy.gif" align="right" width="400" height="250" >
+<img src = "https://media.giphy.com/media/THYpZXjiXcMoCjdnyj/giphy.gif" align ="right" width="400" height="250" >
 
 ### Hi There, I'm Furkan :blush:
 
@@ -7,7 +7,7 @@
 
 ### Reach out to me
 
-[<img width="32" src="https://unpkg.com/simple-icons@v6/icons/LinkedIn.svg" align="left" />][LinkedIn]
+[<img width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][LinkedIn]
 [<img width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
 
 <br />
